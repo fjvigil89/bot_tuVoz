@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/frank/sites/botIA/modelo/modleo.tflearn"
+all_model_checkpoint_paths: "/home/frank/sites/botIA/modelo/modleo.tflearn"

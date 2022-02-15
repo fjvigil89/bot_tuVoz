@@ -1,0 +1,21 @@
+{
+    "contenido":[
+        {
+            "tag":"saludo",
+                "patrones":["Hola", "Un Saludo", "Como estás"],
+                "respuestas":["Hola!", "Todo Bien, y vos", "Bien, y tú"]
+        },
+        {
+            "tag":"dislalia",
+                "patrones":["no pronuncio bien la r", "cambio de r por c", "omite la r", "si es constante"],
+                "respuestas":["tiene un problema", "Esta pronunciacion es constante", "Esta pronunciación es en ocaciones", "tiene un trastornoo"]
+        },
+        {
+            "tag":"despedida",
+                "patrones":["Adios", "Hasta la próxima", "Hasta luego"],
+                "respuestas":["Chao!", "Cuídate mucho", "Aquí estoy, para lo que necesites"]
+        }
+      
+    ]
+
+}
